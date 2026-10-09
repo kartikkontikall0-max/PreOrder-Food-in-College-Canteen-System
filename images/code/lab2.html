@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Timetable</title>
+<style>
+    body {font-family: Arial, sans-serif; text-align:center;}
+    table {width:70%; margin:auto; border-collapse:collapse;}
+    th,td {border:1px solid #000; padding:8px;}
+    th {background:#ddd;}
+    .red {background:#ffb3b3;}   /* Lab */
+    .green {background:#b3ffb3;} /* Elective */
+    tfoot {background:#ccc; font-weight:bold;}
+</style>
+</head>
+<body>
+
+<h2>TIME TABLE</h2>
+
+<table>
+    <tr>
+        <th>Day/Time</th><th>9-10</th><th>10-11</th><th>11-12</th><th>12-1</th>
+    </tr>
+    <tr>
+        <td>Mon</td><td>Math</td><td>Eng</td><td class="red">Phy Lab</td><td>Elective</td>
+    </tr>
+    <tr>
+        <td>Tue</td><td>Elective</td><td>Bio</td><td>Math</td><td>Chem Lab</td>
+    </tr>
+    <tr>
+        <td>Wed</td><td>History</td><td>Comp Lab</td><td>Eng</td><td>Math</td>
+    </tr>
+    <tr>
+        <td>Thu</td><td>PE</td><td>History</td><td>Geo</td><td class="green">Elective</td>
+    </tr>
+    <tr>
+        <td>Fri</td><td>Bio Lab</td><td>Math</td><td>Eng</td><td>Phy</td>
+    </tr>
+    <tfoot><tr><td colspan="5">End of Timetable</td></tr></tfoot>
+</table>
+
+</body>
+</html>
