@@ -20,6 +20,10 @@ through WhatsApp.
 - CSS3
 - JavaScript
 
+## Live Demo
+
+[View the Live Website](https://kartikkontikall0-max.github.io/PreOrder-Food-in-College-Canteen-System/)
+
 ## Installation and Setup
 
 1. Clone this repository:
