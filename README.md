@@ -20,10 +20,6 @@ through WhatsApp.
 - CSS3
 - JavaScript
 
-## Live Demo
-
-[View the Live Website](https://kartikkontikall0-max.github.io/preorder-food-in-college-canteen-system/)
-
 ## Installation and Setup
 
 1. Clone this repository:
